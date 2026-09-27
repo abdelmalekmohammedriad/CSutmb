@@ -1,0 +1,47 @@
+- Error detection: parity, polynomial codes, cyclic codes.
+https://www.youtube.com/watch?v=Bwih7_AT1oI
+https://www.youtube.com/watch?v=zcaj6IGS3Hs
+https://www.youtube.com/watch?v=tMpyo07bA0c
+https://www.youtube.com/watch?v=D9lHc2NwtcU
+https://www.youtube.com/watch?v=OWoCYP4eCcs&t=1s
+https://www.youtube.com/watch?v=wWNYQPzV73Y
+https://www.youtube.com/watch?v=5Q-Yv6_0Qcw
+- Error correction: Hamming codes, BCH codes.)
+https://www.youtube.com/watch?v=FOYajU2tqOE
+https://www.youtube.com/watch?v=T7DltNRiV_8
+
+
+https://www.youtube.com/watch?v=jUHi1aPcrFg
+https://www.youtube.com/watch?v=oxi6UQJA_hs
+https://www.youtube.com/watch?v=m5aDVDaE-nY&t=2904s
+https://www.youtube.com/watch?v=P7zAVm5vtPM
+https://www.youtube.com/watch?v=cS6Y9pAb_C4&t=1629s
+https://www.youtube.com/watch?v=Bwih7_AT1oI&t=3s
+https://www.youtube.com/watch?v=zcaj6IGS3Hs&t=2s
+https://www.youtube.com/watch?v=OWoCYP4eCcs&t=151s
+https://www.youtube.com/watch?v=D9lHc2NwtcU
+https://www.youtube.com/watch?v=T7DltNRiV_8
+https://www.youtube.com/watch?v=iEm1NRyEe5c&t=23s
+https://www.youtube.com/watch?v=DQQIT4nPY_M&t=2106s
+https://www.youtube.com/watch?v=QRo9qC-InWw
+https://www.youtube.com/watch?v=zfX0yHzIzgk&t=381s
+https://www.youtube.com/watch?v=2s8Q73ixggs
+
+
+
+
+
+Exercise
+Let's take a text made up of five letters without repeatation forming your “Last Name First Name”, not counting the blanks. Let's assume that the number of times these letters appear in the text is as follows:
+                                           1st letter 2nd letter 3rd letter 4th letter 5th letter 
+Number of appearances     10+a        10+b        10+c      10+d           10+e      
+With :
+         a: frequency of the 1st Letter in your first name and surname
+         b: frequency of the 2nd letter in your given name
+         c: frequency of the 3rd letter in your given name
+         d: frequency of the 4th letter in your given name
+         e: frequency of the 5th Letter in your given name
+
+1 On average, how many bits per letter are needed to represent this text? Calculate its entropy
+     Use the first five different letters of your given name.  (Example LARBI)
+2.  Construct the corresponding LZW Coding
